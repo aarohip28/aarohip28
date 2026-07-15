@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Aarohi Pisolkar
 
-🎓 Final-year Artificial Intelligence & Data Science student at A. C. Patil College of Engineering, passionate about building intelligent systems that solve real-world problems. From image classification to route optimization in icy waters, my projects reflect a strong blend of machine learning, data science, and full-stack development.
+Data Analyst | AI/ML Enthusiast
+
+I work with Python, SQL, and machine learning to analyze data, build predictive models, and develop real-world solutions. My projects include deep learning, computer vision, and AI-based optimization systems.
 
 ---
 
@@ -52,5 +54,4 @@ Validated bulk emails via CSV uploads — practical and effective front-end util
 
 - 📧 aarohi2853@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aarohi-p-b72705273/)  
-- 🧠 [Kaggle](https://www.kaggle.com/aarohipisolkar)  
 - 💻 [GitHub](https://github.com/aarohip28)
