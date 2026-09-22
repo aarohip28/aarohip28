@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aarohi Pisolkar
+# 👋 Hi, I'm Aarohi Pisolkarr
 
 Data Analyst | AI/ML Enthusiast
 
